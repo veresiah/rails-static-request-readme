@@ -1009,3 +1009,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for ::1 at 2021-05-10 13:03:32 -0400
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (2.1ms)
+Completed 200 OK in 24ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
